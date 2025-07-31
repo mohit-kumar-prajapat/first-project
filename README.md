@@ -1,3 +1,4 @@
 # first-project
-it's my first project
-author-Mohit Kumar Prajapat
+it's my first project.
+<br>
+Author-Mohit Kumar Prajapat
